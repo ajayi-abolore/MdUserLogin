@@ -2,7 +2,7 @@
     "ltId": "177787805032728",
     "packageName": "MdUserLogin",
     "packageType": "module",
-    "version": "1.2.4",
+    "version": "1.2.5",
     "dependsOn": [
         {
             "packageName": "ThemeLifeTech",
